@@ -27,15 +27,7 @@ Gosto de resolver problemas de forma simples e eficiente
 
 Crescer como desenvolvedor, ganhar experiência real e me tornar cada vez mais independente na criação de projetos — evoluindo de verdade, não só no papel.
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=chamizo-t&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chamizo-t&layout=compact&theme=tokyonight"/>
-</div>
-
-<br />
- 
  ### DevOps & Tools
 
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -45,6 +37,15 @@ Crescer como desenvolvedor, ganhar experiência real e me tornar cada vez mais i
 ---
 
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=chamizo-t&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chamizo-t&layout=compact&theme=tokyonight"/>
+</div>
+
+<br />
+ 
 
 
 
